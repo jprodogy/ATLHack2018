@@ -12,7 +12,7 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
         Log.w("Greetings!", "Welcome to our app!");
         Log.w("Yo","This is Winston");
-        Log.w("Hello", "Its el Heffe");
+        Log.w("Hello", "Its el Heffe bro");
     }
 
 }
